@@ -1,0 +1,8 @@
+{
+  "name": "galih-store-slot-demo",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0 --port 5173", "build": "vite build" },
+  "dependencies": { "react": "^18.3.1", "react-dom": "^18.3.1" },
+  "devDependencies": { "vite": "^5.4.0", "@vitejs/plugin-react": "^4.3.1" }
+}
